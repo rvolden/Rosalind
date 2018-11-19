@@ -60,8 +60,4 @@ func main() {
         fmt.Println(strings.Trim(fmt.Sprint(d_matrix[i:i+iter]), "[]"))
         i += iter
     }
-    // fmt.Println(d_matrix[0:4])
-    // fmt.Println(d_matrix[4:8])
-    // fmt.Println(d_matrix[8:12])
-    // fmt.Println(d_matrix[12:16])
 }
